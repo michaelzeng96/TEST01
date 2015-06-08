@@ -17,6 +17,7 @@ class Theater
 private:
 	string sTheaterName;
 	string sTheaterPhoneNumber;
+	//PT -- we haven't talked about lists yet. I was expecting arrays.
 	list<Movie> movieList;
 	int iPopcornPrice;
 	int iCokePrice;
